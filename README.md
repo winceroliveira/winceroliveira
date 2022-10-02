@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Hoje estou trabalhando com criação de jogos Unity3d mais focado em banco de dados (playfab).
-- 🌱 Aluno de Sistemas de Informação.
+- 🔭 Hoje estou trabalhando com criação de jogos Unity3d mais focado em banco de dados (playfab) e conexão Multiplayer usando Photon Network.
+- 🌱 Aluno de Ciências da  Computação.
 - 👯 Trabalho na empresa Messier Data e Creative,
 - 💬 Pergunte-me sobre, C#, unity3d, PlayFab.
 - 📫 Como entrar em contato comigo: developer@winceroliveira.com.br / wincer@messier.com.br
