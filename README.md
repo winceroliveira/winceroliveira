@@ -36,14 +36,12 @@ Minha carreira é focada na intersecção entre **Unity/Unreal Engine** e a cria
 ## 🔗 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/wincer-oliveira-75a15921b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:developer@winceroliveira.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/wincer.oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:admin@winceroliveira.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/winceroliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
-
-(Mantive as suas estatísticas originais, pois o tema `algolia` é ótimo!)
 
 <div align="center">
   <a href="https://github.com/winceroliveira">
